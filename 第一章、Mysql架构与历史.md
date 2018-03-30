@@ -49,7 +49,7 @@ ACID表示原子性(atomicity)、一致性(consistency)、隔离性(isolation)�
 | `READ UNCOMMITTED` |  YES | YES | YES | NO |
 | `READ COMMITTED` |  NO | YES | YES | NO |
 | `REPEATABLE READ` |  NO | NO | YES | NO |
-| ``SERIALIZABLE |  NO | NO | NO | YES |
+| `SERIALIZABLE` |  NO | NO | NO | YES |
 
 ### 死锁
 
